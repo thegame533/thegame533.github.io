@@ -1,0 +1,27 @@
+---
+
+layout: "post"
+
+title: "9월 05일자 junit 프로그램 공부"
+
+date: "2019-09-05 17:46"
+
+tag: java
+
+---
+
+### JUNIT의 assertOOO 메소드의 기능
+
+---
+
+assert**ArrayEquals**(a, b); - 배열 A와 B가 일치함을 확인한다.
+
+assert**Equals**(a, b); - 객체 A와 B가 일치함을 확인한다.
+
+assert**Equals**(a, b, **c**); - 객체 A와 B가 일치함을 확인한다. - a: 예상값, b:결과값, **c: 오차범위**
+
+assert**Same**(a, b); - 객체 A와 B가 같은 객체임을 확인한다.
+
+assert**True**(a); - 조건 A가 참인가를 확인한다.
+
+assert**NotNull**(a); - 객채 A가 null이 아님을 확인한다.
