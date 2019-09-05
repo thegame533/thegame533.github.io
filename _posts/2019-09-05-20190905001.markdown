@@ -2,9 +2,9 @@
 
 layout: "post"
 
-title: "9월 03일자 프로그램 공부"
+title: "9월 05일자 ubuntu 프로그램 공부"
 
-date: "2019-09-03 15:09"
+date: "2019-09-05 15:13"
 
 tag: java
 
