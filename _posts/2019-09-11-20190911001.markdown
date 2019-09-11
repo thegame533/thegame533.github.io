@@ -1,0 +1,25 @@
+---
+
+layout: "post"
+
+title: "9월 11일자 ubuntu 프로그램 공부"
+
+date: "2019-09-11 10:07"
+
+tag: java
+
+---
+
+### 리눅스에 인스톨 하면 좋은 커맨드 모음3
+
+---
+
+참고하면 좋을만한 커맨드를 좀 더 모아왔습니다.
+
+-	apt install iputils-ping : ping 명령어를 가능하게 해주는 커맨드
+
+-	apt update : (인스톨X) 리포지토리 일람 갱신
+
+-	apt upgarade : (인스톨X) 버전 갱신
+
+-	apt install python3-pip : 파이썬3 설치
